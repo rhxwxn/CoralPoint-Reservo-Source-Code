@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975013072516",
+    "project_id": "coralpoint-mobile",
+    "storage_bucket": "coralpoint-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975013072516:android:0fc2ae06745e8cd71b3cd1",
+        "android_client_info": {
+          "package_name": "com.example.coralpointreservo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwVvvojfwqLSetpJe94Pk5JfR_WQodfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
